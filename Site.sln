@@ -7,11 +7,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		base.html = base.html
 		index.html = index.html
+		template.html = template.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{6222E530-C68B-484C-917F-470EA5C82140}"
+	ProjectSection(SolutionItems) = preProject
+		Styles.css = Styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977E-4C78-A66B-3234C9371815}"
+	ProjectSection(SolutionItems) = preProject
+		IMG\swing.jpg = IMG\swing.jpg
+		IMG\swing1.jpg = IMG\swing1.jpg
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6222E530-C68B-484C-917F-470EA5C82140} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
+		{1271B6B8-977E-4C78-A66B-3234C9371815} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E64284D3-53EE-4809-A81D-35B26D38658F}
