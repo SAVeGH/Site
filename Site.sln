@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{6222E530-C68
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977E-4C78-A66B-3234C9371815}"
 	ProjectSection(SolutionItems) = preProject
+		IMG\cycle_2t.gif = IMG\cycle_2t.gif
+		IMG\eng_2t.gif = IMG\eng_2t.gif
+		IMG\Gear.gif = IMG\Gear.gif
+		IMG\moments.jpg = IMG\moments.jpg
 		IMG\swing.jpg = IMG\swing.jpg
 		IMG\swing1.jpg = IMG\swing1.jpg
 	EndProjectSection
