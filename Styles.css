@@ -52,7 +52,7 @@
 	font-size:x-large;
 }
 
-.pictrow {
+.divrow {
 	display: flex;
 	flex-direction: row;
 	overflow-y: hidden;
