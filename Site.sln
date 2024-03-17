@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0AE671D0-BFE0-45B9-8DF0-E89D987C5021}"
 	ProjectSection(SolutionItems) = preProject
 		base.html = base.html
-		elements.html = elements.html
+		2t.html = 2t.html
 		index.html = index.html
 		pluses.html = pluses.html
 		template.html = template.html
@@ -25,8 +25,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977
 		IMG\eng_2t.gif = IMG\eng_2t.gif
 		IMG\Gear.gif = IMG\Gear.gif
 		IMG\moments.jpg = IMG\moments.jpg
-		IMG\swing.jpg = IMG\swing.jpg
-		IMG\swing1.jpg = IMG\swing1.jpg
 		IMG\zkv.jpg = IMG\zkv.jpg
 	EndProjectSection
 EndProject
