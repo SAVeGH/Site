@@ -42,6 +42,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977
 		IMG\eng_2t.gif = IMG\eng_2t.gif
 		IMG\Gear.gif = IMG\Gear.gif
 		IMG\moments.jpg = IMG\moments.jpg
+		IMG\step_1.jpg = IMG\step_1.jpg
+		IMG\step_2.jpg = IMG\step_2.jpg
+		IMG\step_3.jpg = IMG\step_3.jpg
 		IMG\zkv.jpg = IMG\zkv.jpg
 	EndProjectSection
 EndProject
