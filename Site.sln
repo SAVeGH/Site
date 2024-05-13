@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977
 		IMG\1_3.jpg = IMG\1_3.jpg
 		IMG\2.jpg = IMG\2.jpg
 		IMG\2te.gif = IMG\2te.gif
+		IMG\2t_exhaust.jpg = IMG\2t_exhaust.jpg
+		IMG\2t_exhaust_cut.jpg = IMG\2t_exhaust_cut.jpg
 		IMG\2t_left_cil.jpg = IMG\2t_left_cil.jpg
 		IMG\2t_right_cil.jpg = IMG\2t_right_cil.jpg
 		IMG\2_3.jpg = IMG\2_3.jpg
@@ -45,6 +47,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{1271B6B8-977
 		IMG\step_1.jpg = IMG\step_1.jpg
 		IMG\step_2.jpg = IMG\step_2.jpg
 		IMG\step_3.jpg = IMG\step_3.jpg
+		IMG\valve.gif = IMG\valve.gif
 		IMG\zkv.jpg = IMG\zkv.jpg
 	EndProjectSection
 EndProject
