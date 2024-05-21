@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0AE671D0-BFE0-45B9-8DF0-E89D987C5021}"
 	ProjectSection(SolutionItems) = preProject
 		2t.html = 2t.html
+		4t.html = 4t.html
 		base.html = base.html
 		index.html = index.html
 		pluses.html = pluses.html
@@ -66,6 +67,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2t", "2t", "{A9E460DB-FDA2-
 		IMG\2t\zkv.jpg = IMG\2t\zkv.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4t", "4t", "{ED00D107-08ED-47C0-B8C2-B7907A08F38B}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +77,7 @@ Global
 		{6222E530-C68B-484C-917F-470EA5C82140} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
 		{1271B6B8-977E-4C78-A66B-3234C9371815} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
 		{A9E460DB-FDA2-4016-8D67-61698FFC8F74} = {1271B6B8-977E-4C78-A66B-3234C9371815}
+		{ED00D107-08ED-47C0-B8C2-B7907A08F38B} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E64284D3-53EE-4809-A81D-35B26D38658F}
