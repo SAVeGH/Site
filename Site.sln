@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		4t.html = 4t.html
 		base.html = base.html
 		index.html = index.html
+		jet.html = jet.html
 		pluses.html = pluses.html
 		template.html = template.html
 	EndProjectSection
@@ -87,6 +88,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4t", "4t", "{ED00D107-08ED-
 		IMG\4t\valve_piston.gif = IMG\4t\valve_piston.gif
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jet", "jet", "{02A923AB-3209-4790-96A3-6AD6A4A834B4}"
+	ProjectSection(SolutionItems) = preProject
+		IMG\jet\back.gif = IMG\jet\back.gif
+		IMG\jet\f1.jpg = IMG\jet\f1.jpg
+		IMG\jet\f13.jpg = IMG\jet\f13.jpg
+		IMG\jet\f14.jpg = IMG\jet\f14.jpg
+		IMG\jet\f15.jpg = IMG\jet\f15.jpg
+		IMG\jet\f16.jpg = IMG\jet\f16.jpg
+		IMG\jet\f17.jpg = IMG\jet\f17.jpg
+		IMG\jet\f18.jpg = IMG\jet\f18.jpg
+		IMG\jet\f19.jpg = IMG\jet\f19.jpg
+		IMG\jet\f2.jpg = IMG\jet\f2.jpg
+		IMG\jet\f20.jpg = IMG\jet\f20.jpg
+		IMG\jet\f21.jpg = IMG\jet\f21.jpg
+		IMG\jet\f22.jpg = IMG\jet\f22.jpg
+		IMG\jet\f3.jpg = IMG\jet\f3.jpg
+		IMG\jet\f4.jpg = IMG\jet\f4.jpg
+		IMG\jet\f5.jpg = IMG\jet\f5.jpg
+		IMG\jet\f6.jpg = IMG\jet\f6.jpg
+		IMG\jet\f8.jpg = IMG\jet\f8.jpg
+		IMG\jet\front.gif = IMG\jet\front.gif
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +120,7 @@ Global
 		{1271B6B8-977E-4C78-A66B-3234C9371815} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
 		{A9E460DB-FDA2-4016-8D67-61698FFC8F74} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 		{ED00D107-08ED-47C0-B8C2-B7907A08F38B} = {1271B6B8-977E-4C78-A66B-3234C9371815}
+		{02A923AB-3209-4790-96A3-6AD6A4A834B4} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E64284D3-53EE-4809-A81D-35B26D38658F}
