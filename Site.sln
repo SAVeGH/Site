@@ -8,9 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		2t.html = 2t.html
 		4t.html = 4t.html
 		base.html = base.html
+		el.html = el.html
 		index.html = index.html
 		jet.html = jet.html
 		pluses.html = pluses.html
+		td.html = td.html
 		template.html = template.html
 	EndProjectSection
 EndProject
@@ -111,6 +113,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jet", "jet", "{02A923AB-320
 		IMG\jet\front.gif = IMG\jet\front.gif
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "el", "el", "{13211D0F-6C72-4A55-A24C-16111369DBB8}"
+	ProjectSection(SolutionItems) = preProject
+		IMG\el\el_1.jpg = IMG\el\el_1.jpg
+		IMG\el\el_2.jpg = IMG\el\el_2.jpg
+		IMG\el\el_3.jpg = IMG\el\el_3.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +130,7 @@ Global
 		{A9E460DB-FDA2-4016-8D67-61698FFC8F74} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 		{ED00D107-08ED-47C0-B8C2-B7907A08F38B} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 		{02A923AB-3209-4790-96A3-6AD6A4A834B4} = {1271B6B8-977E-4C78-A66B-3234C9371815}
+		{13211D0F-6C72-4A55-A24C-16111369DBB8} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E64284D3-53EE-4809-A81D-35B26D38658F}
