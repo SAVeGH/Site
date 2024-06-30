@@ -123,14 +123,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "el", "el", "{13211D0F-6C72-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "effect", "effect", "{C4FEC0A8-451A-49F2-B78E-912C82F0FFBC}"
 	ProjectSection(SolutionItems) = preProject
+		IMG\effect\a086.jpg = IMG\effect\a086.jpg
 		IMG\effect\a1.jpg = IMG\effect\a1.jpg
+		IMG\effect\above_1.jpg = IMG\effect\above_1.jpg
+		IMG\effect\below_1.jpg = IMG\effect\below_1.jpg
+		IMG\effect\ellips_08.jpg = IMG\effect\ellips_08.jpg
+		IMG\effect\ellips_1_25.jpg = IMG\effect\ellips_1_25.jpg
+		IMG\effect\m086.jpg = IMG\effect\m086.jpg
 		IMG\effect\m1.jpg = IMG\effect\m1.jpg
+		IMG\effect\p086.jpg = IMG\effect\p086.jpg
 		IMG\effect\p1.jpg = IMG\effect\p1.jpg
 		IMG\effect\Piston.jpg = IMG\effect\Piston.jpg
 		IMG\effect\Rotor.jpg = IMG\effect\Rotor.jpg
+		IMG\effect\t086.jpg = IMG\effect\t086.jpg
 		IMG\effect\t1.jpg = IMG\effect\t1.jpg
+		IMG\effect\v086.jpg = IMG\effect\v086.jpg
 		IMG\effect\v1.jpg = IMG\effect\v1.jpg
 		IMG\effect\Val.jpg = IMG\effect\Val.jpg
+		IMG\effect\vert.jpg = IMG\effect\vert.jpg
 	EndProjectSection
 EndProject
 Global
