@@ -143,6 +143,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "effect", "effect", "{C4FEC0
 		IMG\effect\vert.jpg = IMG\effect\vert.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{A663FC59-5DF5-459D-B042-B15C3F39802C}"
+	ProjectSection(SolutionItems) = preProject
+		Files\Eng.zip = Files\Eng.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +160,7 @@ Global
 		{02A923AB-3209-4790-96A3-6AD6A4A834B4} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 		{13211D0F-6C72-4A55-A24C-16111369DBB8} = {1271B6B8-977E-4C78-A66B-3234C9371815}
 		{C4FEC0A8-451A-49F2-B78E-912C82F0FFBC} = {1271B6B8-977E-4C78-A66B-3234C9371815}
+		{A663FC59-5DF5-459D-B042-B15C3F39802C} = {0AE671D0-BFE0-45B9-8DF0-E89D987C5021}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E64284D3-53EE-4809-A81D-35B26D38658F}
