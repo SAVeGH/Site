@@ -8,13 +8,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		2t.html = 2t.html
 		4t.html = 4t.html
 		base.html = base.html
+		contact.html = contact.html
 		dz.html = dz.html
 		effect.html = effect.html
 		el.html = el.html
 		index.html = index.html
 		jet.html = jet.html
-		pluses.html = pluses.html
-		template.html = template.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{6222E530-C68B-484C-917F-470EA5C82140}"
